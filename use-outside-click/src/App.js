@@ -1,8 +1,9 @@
+import UseOnclickOutsideTest from "./components/test";
 
 function App() {
   return (
     <div className="App">
-      APP
+      <UseOnclickOutsideTest />
     </div>
   );
 }
